@@ -1,0 +1,3 @@
+Hello. This is the input file input1.txt. The contents inside this file are to be 
+used to test the minicat function that I have written. If found elsewhere, please contact
+me at lee31@cooper.edu! Thanks. Bye.
