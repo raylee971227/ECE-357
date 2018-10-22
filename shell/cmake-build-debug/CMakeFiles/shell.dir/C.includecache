@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raylee971227/Desktop/Cooper_Union/Junior_Year/OS/shell/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/wait.h
+-
+fcntl.h
+-
+errno.h
+-
+sys/time.h
+-
+sys/resource.h
+-
+time.h
+-
+
