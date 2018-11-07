@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raylee971227/Desktop/Cooper_Union/Junior_Year/OS/probTwo/main.c
+unistd.h
+-
+stdio.h
+-
+sys/signal.h
+-
+errno.h
+-
+signal.h
+-
+sys/wait.h
+-
+
