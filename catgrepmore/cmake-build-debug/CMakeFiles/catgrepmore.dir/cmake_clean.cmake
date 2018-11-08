@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/catgrepmore.dir/main.c.o"
+  "CMakeFiles/catgrepmore.dir/p4.c.o"
   "catgrepmore.pdb"
   "catgrepmore"
 )

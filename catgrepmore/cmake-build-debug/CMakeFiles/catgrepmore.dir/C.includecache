@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raylee971227/Desktop/Cooper_Union/Junior_Year/OS/catgrepmore/main.c
+signal.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+errno.h
+-
+fcntl.h
+-
+unistd.h
+-
+sys/wait.h
+-
+

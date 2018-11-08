@@ -83,6 +83,9 @@
 		<Unit filename="/Users/raylee971227/Desktop/Cooper_Union/Junior_Year/OS/catgrepmore/main.c">
 			<Option target="catgrepmore"/>
 		</Unit>
+		<Unit filename="/Users/raylee971227/Desktop/Cooper_Union/Junior_Year/OS/catgrepmore/p4.c">
+			<Option target="catgrepmore"/>
+		</Unit>
 		<Unit filename="/Users/raylee971227/Desktop/Cooper_Union/Junior_Year/OS/catgrepmore/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

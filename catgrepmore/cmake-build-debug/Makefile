@@ -150,6 +150,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/catgrepmore.dir/build.make CMakeFiles/catgrepmore.dir/main.c.s
 .PHONY : main.c.s
 
+p4.o: p4.c.o
+
+.PHONY : p4.o
+
+# target to build an object file
+p4.c.o:
+	$(MAKE) -f CMakeFiles/catgrepmore.dir/build.make CMakeFiles/catgrepmore.dir/p4.c.o
+.PHONY : p4.c.o
+
+p4.i: p4.c.i
+
+.PHONY : p4.i
+
+# target to preprocess a source file
+p4.c.i:
+	$(MAKE) -f CMakeFiles/catgrepmore.dir/build.make CMakeFiles/catgrepmore.dir/p4.c.i
+.PHONY : p4.c.i
+
+p4.s: p4.c.s
+
+.PHONY : p4.s
+
+# target to generate assembly for a file
+p4.c.s:
+	$(MAKE) -f CMakeFiles/catgrepmore.dir/build.make CMakeFiles/catgrepmore.dir/p4.c.s
+.PHONY : p4.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... p4.o"
+	@echo "... p4.i"
+	@echo "... p4.s"
 .PHONY : help
 
 

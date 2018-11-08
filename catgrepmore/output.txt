@@ -1,1 +1,0 @@
-hello world! this is input.txt and its meant to test the cat program. 
